@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68a185f7-190f-4f5c-9ab2-5b4356da9911" name="Changes" comment="changed package names to universal design">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/release.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/release.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_18_06_2026_15_38_[Changes]1/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_18_06_2026_15_38_[Changes]1/logo-400mb.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_18_06_2026_15_38_[Changes]1/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_18_06_2026_15_38__Changes_1.xml" beforeDir="false" />
+    <list default="true" id="68a185f7-190f-4f5c-9ab2-5b4356da9911" name="Changes" comment="fixed message bug">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,12 +33,12 @@
     &quot;assignee&quot;: &quot;Jakomi1&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Team-JHL/VoiceServer.git&quot;,
-    &quot;accountId&quot;: &quot;342ed136-4f86-4603-866e-1380bdefa5e0&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Team-JHL/VoiceServer",
+    "accountId": "342ed136-4f86-4603-866e-1380bdefa5e0"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -353,7 +348,15 @@
       <option name="project" value="LOCAL" />
       <updated>1782041143685</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="fixed message bug">
+      <option name="closed" value="true" />
+      <created>1783438934435</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1783438934435</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -368,6 +371,7 @@
     <MESSAGE value="fixed auto publisher code" />
     <MESSAGE value="added fastStats support" />
     <MESSAGE value="changed package names to universal design" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed package names to universal design" />
+    <MESSAGE value="fixed message bug" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed message bug" />
   </component>
 </project>
